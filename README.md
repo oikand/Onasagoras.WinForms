@@ -1,2 +1,2 @@
-# OnasagorasWin
-Win version of Onasagoras application
+# Onasagoras.WinForms
+Win Forms version of Onasagoras application
